@@ -1,0 +1,15 @@
+{
+  "analysis":{
+    "PROGRESSION_BAR_NUMBER" : 4,
+    "BEAT_PER_PRESS" = 2
+  }
+  "recognition": {
+    "FIX_THRESHOLD" = 0.8,
+    "PACK_SIZE" = 5
+  }
+  "feature": {
+    "SIGN" = 1,
+    "SIMPLIFED" = 0,
+    "ALTER_KEY" = 3
+  }
+}
